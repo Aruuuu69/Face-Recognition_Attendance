@@ -20,3 +20,15 @@ This is a Python-based AI system that uses face recognition to automate attendan
 - Pickle (for model serialization)
 
 
+
+## 👤 Author
+
+- **Parth Saini**
+- GitHub: [@Aruuuu69](https://github.com/Aruuuu69)
+- LinkedIn: [Parth Saini](https://www.linkedin.com/parth-saini-0664b4)
+
+## 📄 License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+
