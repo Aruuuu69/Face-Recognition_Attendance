@@ -1,5 +1,6 @@
 # Face Recognition Attendance System
 
+
 This is a Python-based AI system that uses face recognition to automate attendance marking. The system uses OpenCV for face detection and a K-Nearest Neighbors (KNN) classifier for recognition.
 
 ## 📌 Features
@@ -32,3 +33,4 @@ This is a Python-based AI system that uses face recognition to automate attendan
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 
+ ff09ffcde1526de0a4c61737cca181a6838f6c4d
